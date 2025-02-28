@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohameed Ahmed
+- 👋 Hi, I’m Mohamed Ahmed
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I build more Web Applications
